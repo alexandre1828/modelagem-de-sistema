@@ -1,0 +1,32 @@
+<html> 
+
+<head>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+
+    <h1>Minecraft</h1>
+    <hr>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur natus autem iusto dolores deleniti! Odio exercitationem ea velit vero cumque nemo aliquid. Ut quis facilis expedita. Tempore accusamus dolore quam.
+
+    </p>
+    <br>
+    <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic laudantium doloribus possimus voluptatum sunt enim obcaecati temporibus vel soluta corporis delectus distinctio eum dicta odio, in provident? Repudiandae, recusandae perspiciatis.
+    </p>
+    <hr> 
+    <img src="images/01.jpg"> 
+    <img src="images/02.jpg"> 
+
+    <hr>
+
+    <video src="files/mine.mp4" controls></video>
+    
+    
+
+
+
+</body>
+
+</html>
