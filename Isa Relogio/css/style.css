@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(white, turquoise, blue);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.central{
+    width: 390px;
+    height: 250px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.central div{
+    background: rgb(35, 102, 80);
+    color: white;
+    width: 100px;
+    height: 140px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.central div span{
+    font-size: 75px;
+}
+
+.central div p{
+    font-size: 15px;
+    margin: 0px;
+}
+
