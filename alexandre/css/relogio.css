@@ -1,0 +1,60 @@
+body{
+    background: url(https://th.bing.com/th/id/OIP.U8fQ9bJZHa2F2Q6g2XH-xQHaEo?rs=1&pid=ImgDetMain);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+
+
+
+.horario{
+
+    width: 200px;
+    height: 100px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+   flex-direction: column;
+
+}
+.central{
+    width: 390px;
+    height: 250px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.central div{
+    background: rgb(50, 35, 102);
+    color: rgb(225, 236, 234);
+    width: 100px;
+    height: 140px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.central div span{
+    font-size: 75px;
+}
+
+.central div p{
+    font-size: 15px;
+    margin: 0px;
+}
+
