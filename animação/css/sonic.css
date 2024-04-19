@@ -1,0 +1,55 @@
+body{
+height: 100vh;
+background: url(/image/cenario3.png);
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+#sonic{
+    width: 200px;
+    position: absolute;
+    top: 620px;
+    left: 0px;
+
+    animation: corrida 2s infinite;
+
+    
+}
+
+#nuvem{
+
+    width: 300px;
+    position: absolute;
+    right: 85%;
+    top: 0px;
+    animation: corridan 4s infinite;
+
+}
+
+@keyframes corrida{
+    0%{
+        top: 620px;
+        left: 0px; 
+    }
+
+    100%{
+        top: 620px;
+        left: 110%;
+    }
+
+    
+}
+@keyframes corridan{
+    0%{
+        top: 0px;
+        right: 80px;
+    }
+
+    100%{
+        top: 0px;
+        right: 100%;
+    }
+
+    
+}
